@@ -247,7 +247,7 @@ Ví dụ:
 
 ---
 
-**Người thực hiện kiểm thử:** StudentAnalyzerTest
+**Người thực hiện kiểm thử:** Hà Ngọc Hải Đăng
 **Framework:** JUnit 5.10.2
 **Ngày cập nhật báo cáo:** 2026-02-27
 **Tệp tin kiểm thử:**
